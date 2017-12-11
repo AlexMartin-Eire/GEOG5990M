@@ -6,5 +6,5 @@ html, body {
 }
 
 #sidebar {float:left; width:20%;}
-.post {float:right; width:79%;}
+.post {float:center; width:79%;}
 #footer {clear:both;}
