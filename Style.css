@@ -5,6 +5,6 @@ html, body {
   margin: auto;
 }
 
-#sidebar {float:left; width:20%;}
-.post {float:center; width:79%;}
+#sidebar {float:left; width:35%;}
+.post {float:center; width:65%;}
 #footer {clear:both;}
