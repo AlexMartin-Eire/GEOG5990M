@@ -2,8 +2,8 @@ html, body {
   background:#DCDCDC;
   font-family: arial;
   }
-.container {
-    position: relative;
-    text-align: center;
-    color: black;
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
