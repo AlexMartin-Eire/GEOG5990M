@@ -3,6 +3,10 @@ body {
     background: #DCDCDC;
     font-family: arial;
 }
+.top{
+
+	vertical-align: baseline;
+}
 
 .container{
 	width:80%;
