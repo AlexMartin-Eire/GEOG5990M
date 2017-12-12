@@ -4,5 +4,5 @@ html, body {
 }
 
 #sidebar {position:relative; float:left; width:30%; padding-right: 5px;}
-.post {position:relative; float:center;}
+#wrapper {margin-left:auto;margin-right:auto;width:70%;}
 #footer {clear:both;}
