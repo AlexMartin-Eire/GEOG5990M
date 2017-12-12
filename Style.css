@@ -3,8 +3,16 @@ html, body {
   font-family: arial;
 }
 
-#sidebar {float:left; 
-	width:30%; 
-    padding-right: 5px;}
-.post {float:center;}
+#sidebar {
+  position: relative;
+  padding: 15px 40px;
+  text-align: center;
+}
+ .post {
+  position: absolute;
+  left: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 #footer {clear:both;}
