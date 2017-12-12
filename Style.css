@@ -3,16 +3,20 @@ body {
     background: #DCDCDC;
     font-family: arial;
 }
-.top{
-
-	vertical-align: baseline;
-}
 
 .container{
 	width:80%;
     margin:auto;
-
 }
+
+img[src="github.png"]{
+  display:block;
+}
+
+img[src="linkedin.png"]{
+  display:block;
+}
+
 
 img[src="Leeds.jpg"]{
 	float:right;
