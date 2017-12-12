@@ -4,15 +4,7 @@ html, body {
 }
 
 #sidebar {float:left; 
-	       width:30%; 
-           height: 100%;
-           margin: 20px
-}
-
-.post {float:center;
-}
-
-
-
-#footer {clear:both;
-}
+	width:30%; 
+    padding-right: 5px;}
+.post {float:center;}
+#footer {clear:both;}
