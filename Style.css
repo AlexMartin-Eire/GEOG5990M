@@ -3,17 +3,20 @@ body {
     background: #DCDCDC;
     font-family: arial;
 }
+.post {
+    float: right;
+    width: 70%;
+    padding:15px;
+}
+
 #sidebar {
     float: left;
     width: 30%;
-    padding-right: 5px;
+    padding: 15px;
 }
-.post {
-    float: center;
-    width: 70%;
-    padding-left: 10px;
-    border-right-width: 20px
+
+.post h3 {
+text-align: center;
 }
-#footer {
-    clear: both;
-}
+
+
