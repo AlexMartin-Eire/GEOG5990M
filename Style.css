@@ -6,7 +6,6 @@ html, body {
 #sidebar {float:left; 
 	width:30%; 
 	padding-right: 5px;
-	display: inline-block;
     position: relative;
 }
 .post {float:right; width:70%; padding-right: 10px;}
