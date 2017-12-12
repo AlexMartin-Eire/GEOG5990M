@@ -3,15 +3,10 @@ html, body {
   font-family: arial;
 }
 
-#sidebar {
-  position: relative;
-  padding: 15px 40px;
-  text-align: left;
+#sidebar {float:left; width:20%;
 }
  .post {
-  position: absolute;
-  left: 6px;
-  top: 50%;
+  float:right; width:79%;
   transform: translateY(-50%);
 }
 
