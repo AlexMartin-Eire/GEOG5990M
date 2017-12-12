@@ -3,6 +3,6 @@ html, body {
   font-family: arial;
 }
 
-#sidebar {position:relative; float:left; width:30%; padding-right: 5px;}
-.post {float:center; width:70%; padding-right: 5px;}
+#sidebar {float:left; width:30%; padding-right: 5px;}
+.post {float:center; width:70%;}
 #footer {clear:both;}
