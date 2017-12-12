@@ -10,11 +10,11 @@ body {
 }
 
 img[src="github.png"]{
-  display:block;
+  vertical-align: bottom;
 }
 
 img[src="linkedin.png"]{
-  display:block;
+  vertical-align: bottom;
 }
 
 
