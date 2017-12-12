@@ -9,13 +9,14 @@ body {
     padding:15px;
 }
 
+.post h3 {
+text-align: left;
+}
+
 #sidebar {
     float: left;
     width: 40%;
 }
 
-.post h3 {
-text-align: left;
-}
 
 
