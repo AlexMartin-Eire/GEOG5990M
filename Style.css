@@ -7,7 +7,6 @@ html, body {
 }
  .post {
   float:right; width:79%;
-  transform: translateY(-50%);
 }
 
 #footer {clear:both;}
