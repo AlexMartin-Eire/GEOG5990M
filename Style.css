@@ -1,8 +1,19 @@
-html, body {
-  background:#DCDCDC;
-  font-family: arial;
+html,
+body {
+    background: #DCDCDC;
+    font-family: arial;
 }
-
-#sidebar {float:left; width:30%; padding-right: 5px;}
-.post {float:center; width:70%; padding-left: 10px; margin-right: 5px}
-#footer {clear:both;}
+#sidebar {
+    float: left;
+    width: 30%;
+    padding-right: 5px;
+}
+.post {
+    float: center;
+    width: 70%;
+    padding-left: 10px;
+    border-right-width: 20px
+}
+#footer {
+    clear: both;
+}
