@@ -5,13 +5,13 @@ body {
 }
 .post {
     float: right;
-    width: 69%;
+    width: 60%;
     padding:15px;
 }
 
 #sidebar {
     float: left;
-    width: 30%;
+    width: 40%;
     padding: 15px;
 }
 
