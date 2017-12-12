@@ -4,7 +4,17 @@ body {
     font-family: arial;
 }
 
+.container{
+	width:80%;
+    margin:auto;
 
+}
+
+#block {
+	text-align:center;
+	padding: 10px;
+	
+}
 
 
 
