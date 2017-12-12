@@ -3,7 +3,11 @@ html, body {
   font-family: arial;
 }
 
-#sidebar {float:left; width:30%; padding-right: 5px;}
-.post {margin-left: auto; margin-right: auto; min-width:960px;}
+#sidebar {float:left; 
+	width:30%; 
+	padding-right: 5px;
+	display: inline-block;
+    position: relative;
+}
+.post {float:right; width:70%; padding-right: 10px;}
 #footer {clear:both;}
-
