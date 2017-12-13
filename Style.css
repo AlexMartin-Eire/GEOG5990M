@@ -4,11 +4,13 @@ body {
     font-family: arial;
 }
 .header-cont {
-    width:100%;
+	background: #9A9A9A;
+    width:80%;
     position:fixed;
     top:0px;
 }
 .header {
+	background: #9A9A9A;
     height:80%;
     border:0px;
     width:80%;
