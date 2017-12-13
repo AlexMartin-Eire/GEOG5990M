@@ -4,16 +4,14 @@ body {
     font-family: arial;
 }
 .header-cont {
-	background: #9A9A9A;
-    width:1000px;
+    width:100%;
     position:fixed;
     top:0px;
 }
 .header {
-	background: #9A9A9A;
-    height:75%;
+    height:80%;
     border:0px;
-    width:940px;
+    width:80%;
     margin:0px auto;
 }
 .container{
@@ -25,9 +23,4 @@ body {
 img[src="Leeds.jpg"]{
 	float:right;
 	padding:5px;
-}
-
-left: 10%;
-margin-left: -100px;
-display:block;
 }
