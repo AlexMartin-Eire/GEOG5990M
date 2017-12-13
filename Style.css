@@ -5,7 +5,7 @@ body {
 }
 .header-cont {
 	background: #9A9A9A;
-    width:100%;
+    width:80%;
     position:fixed;
     top:0px;
 }
@@ -13,7 +13,7 @@ body {
 	background: #9A9A9A;
     height:75%;
     border:0px;
-    width:100%;
+    width:80%;
     margin:0px auto;
 }
 .container{
