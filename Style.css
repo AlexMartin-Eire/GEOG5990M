@@ -5,18 +5,15 @@ body {
 }
 .header-cont {
 	background: #9A9A9A;
-    width:80%;
+    width:1000px;
     position:fixed;
     top:0px;
-    left: 50%;
-    margin-left: -500px;
-    display:block;
 }
 .header {
 	background: #9A9A9A;
     height:75%;
     border:0px;
-    width:80%;
+    width:940px;
     margin:0px auto;
 }
 .container{
@@ -28,4 +25,9 @@ body {
 img[src="Leeds.jpg"]{
 	float:right;
 	padding:5px;
+}
+
+left: 10%;
+margin-left: -100px;
+display:block;
 }
