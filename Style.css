@@ -2,6 +2,7 @@ html,
 body {
     background: #DCDCDC;
     font-family: arial;
+    line-height: 150%;
 }
 .header-cont {
     position:fixed;
@@ -25,7 +26,6 @@ body {
 	width:80%;
     margin:auto;
 }
-
 img[src="Leeds.jpg"]{
 	float:right;
 	padding:5px;
