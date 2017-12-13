@@ -19,10 +19,18 @@ body {
 .container{
 	height:100%;
 	width:80%;
-    margin:auto;
+    left: 10%;
+    margin-left: -100px;
+    display: block;
 }
+
 
 img[src="Leeds.jpg"]{
 	float:right;
 	padding:5px;
+}
+
+left: 10%;
+margin-left: -100px;
+display:block;
 }
